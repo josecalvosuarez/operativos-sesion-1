@@ -26,3 +26,10 @@ Han sido contratados por **HotContainerz™**, una startup que quiere migrar su 
 - Comando(s) de construcción y ejecución
 - Evidencia de que la aplicación responde correctamente (pantallazo o curl)
 - Subir un archivo en formato .zip que contenga las evidencias recopiladas
+
+## Documentación
+
+Si es la primera vez trabajando con contenedores, les recomiendo comenzar por este enlace:
+
+https://docs.docker.com/get-started/workshop/02_our_app/
+
